@@ -1,5 +1,5 @@
 # About Me:
-I’m currently working on the most random stuff you cant imagine<br>Ask me about lua(u), react, vite, ts(x) and more<br>All of my projects are available (soon) at https://x5i.ch<br>How to reach me hi@x5i.ch<br>To get to know about my experiences visit (soon trust) https://about.x5i.ch 
+I’m currently working on the most random stuff you cant imagine<br>Ask me about lua(u), react, vite, ts(x) and more<br>All of my projects are available (soon) at https://x5i.ch<br>How to reach me mail@x5i.ch<br>To get to know about my experiences visit (soon trust) https://about.x5i.ch 
 
 
 ## Socials:
